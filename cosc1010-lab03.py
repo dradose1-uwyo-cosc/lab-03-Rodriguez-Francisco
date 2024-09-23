@@ -54,7 +54,6 @@ print(states)
 states.remove('texas')
 print(states)
 
-
 print("part3--------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
 print(sorted(states))
